@@ -1,0 +1,6 @@
+﻿token=NzAwMzMzMjIyMDM0Mjc2NDIy.XpkygA.dXDDzw7GwEftuYT1I9JGR_L6oCw
+owner=631120615855620121
+prefix= x
+game= xhelp
+stayinchannel=true
+songinstatus=true 
